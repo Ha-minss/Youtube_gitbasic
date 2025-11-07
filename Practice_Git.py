@@ -67,3 +67,5 @@ if __name__ == "__main__":
     print(f"\n--- 총 {len(fail_students)}명의 학생이 'Fail' ---")
     # print("--- 스크립트 종료 ---")
 
+
+print("나는 지금 깃허브 두번쨰수정중인레후")
